@@ -1,4 +1,4 @@
-list=[[999]]
+list=[[5]]
 def expand(b):
     t=len(list)-1
     if list[t]==[]:
